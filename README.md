@@ -55,7 +55,7 @@ The course is structured into **6 learning modules**, combining self-study, inte
   - [First operations in R](https://htmlpreview.github.io/?https://github.com/ekinyaman/handsOnBioR/blob/main/materials/w2_1_first_operations_R.html)
   - [Advanced R with Tidyverse](https://htmlpreview.github.io/?https://github.com/ekinyaman/handsOnBioR/blob/main/materials/w2_2_advanced_R_tidyverse.html)
 - 💻  Exercises:
-  - [Exercise 1](exercises/w2_exercise_1.pptx) [🔑](exercises/solutions_exercises1.html)
+  - [Exercise 1](exercises/w2_exercise_1.pdf) [🔑](exercises/solutions_exercises1.html)
 - 🔍 Learning Outcomes:
   - Learn to manipulate and visualize data
   - Use tidyverse functions
@@ -71,7 +71,7 @@ The course is structured into **6 learning modules**, combining self-study, inte
   - [Introdustion to Statistics](materials/w6_statistics.pdf)
 - 💻  Exercises:
   - [Quiz](exercises/w6_exercise_2_quiz)[🔑](exercises/solutions_exercises2_quiz)
-  - [Exercise 2](exercises/w6_exercise_2.pptx)[🔑](https://htmlpreview.github.io/?https://github.com/ekinyaman/handsOnBioR/blob/main/exercises/solutions_exercises2.html)
+  - [Exercise 2](exercises/w6_exercise_2.pdf)[🔑](https://htmlpreview.github.io/?https://github.com/ekinyaman/handsOnBioR/blob/main/exercises/solutions_exercises2.html)
 - 🔍 Learning Outcomes:
   - Understand p-values, CI, normal distributions
   - Perform t-tests and basic inference
@@ -85,7 +85,7 @@ The course is structured into **6 learning modules**, combining self-study, inte
 - 📁 Materials:
   - [Introdustion to Genetics](materials/w9_complex_genetics.pdf)
 - 💻  Exercises:
-  - [Exercise 3](exercises/w9_exercise_3.pptx)[🔑](https://htmlpreview.github.io/?https://github.com/ekinyaman/handsOnBioR/blob/main/exercises/solutions_exercises3.html)
+  - [Exercise 3](exercises/w9_exercise_3.pdf)[🔑](https://htmlpreview.github.io/?https://github.com/ekinyaman/handsOnBioR/blob/main/exercises/solutions_exercises3.html)
 - 🔍 Learning Outcomes:
   - Understand genetic traits and SNP association
   - Manipulate and visualize GWAS data
