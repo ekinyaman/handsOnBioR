@@ -70,8 +70,8 @@ The course is structured into **6 learning modules**, combining self-study, inte
 - 📁 Materials:
   - [Introdustion to Statistics](materials/w6_statistics.pdf)
 - 💻  Exercises:
-  - [Quiz](exercises/w6_exercise_2_quiz)[🔑](exercises/solutions_exercises2_quiz)
-  - [Exercise 2](exercises/w6_exercise_2.pdf)[🔑](https://htmlpreview.github.io/?https://github.com/ekinyaman/handsOnBioR/blob/main/exercises/solutions_exercises2.html)
+  - [Quiz](exercises/w6_exercise_2_quiz)[🔑](exercises/w9_solutions_exercise2_quiz)
+  - [Exercise 2](exercises/w6_exercise_2.pdf)[🔑](https://htmlpreview.github.io/?https://github.com/ekinyaman/handsOnBioR/blob/main/exercises/w9_solutions_exercise2.html)
 - 🔍 Learning Outcomes:
   - Understand p-values, CI, normal distributions
   - Perform t-tests and basic inference
@@ -85,7 +85,7 @@ The course is structured into **6 learning modules**, combining self-study, inte
 - 📁 Materials:
   - [Introdustion to Genetics](materials/w9_complex_genetics.pdf)
 - 💻  Exercises:
-  - [Exercise 3](exercises/w9_exercise_3.pdf)[🔑](https://htmlpreview.github.io/?https://github.com/ekinyaman/handsOnBioR/blob/main/exercises/solutions_exercises3.html)
+  - [Exercise 3](exercises/w9_exercise_3.pdf)[🔑](https://htmlpreview.github.io/?https://github.com/ekinyaman/handsOnBioR/blob/main/exercises/w13_solutions_exercise3.html)
 - 🔍 Learning Outcomes:
   - Understand genetic traits and SNP association
   - Manipulate and visualize GWAS data
