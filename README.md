@@ -38,8 +38,8 @@ The course is structured into **6 learning modules**, combining self-study, inte
 - **Introduction session to course & tools** 
 - Installing and configuring R and RStudio
 - 📁 Materials:
-  - [Introduction to the Course](materials/w1_2_installing_R_RStudio.pptx)
-  - [Installing R and R Studio](materials/w1_2_installing_R_RStudio.pptx)
+  - [Introduction to the Course](materials/w1_2_installing_R_RStudio.pdf)
+  - [Installing R and R Studio](materials/w1_2_installing_R_RStudio.pdf)
   - [Installing and loading R libraries](https://htmlpreview.github.io/?https://github.com/ekinyaman/handsOnBioR/blob/main/materials/w1_installing_R.html)
 - 🔍 Learning Outcomes:
   - Understand course structure
@@ -68,7 +68,7 @@ The course is structured into **6 learning modules**, combining self-study, inte
 - **Self-study**: Key statistical concepts and their implementation in R
 - **Exercise 2**: Statistics quiz and exercise in R
 - 📁 Materials:
-  - [Introdustion to Statistics](materials/w6_statistics.pptx)
+  - [Introdustion to Statistics](materials/w6_statistics.pdf)
 - 💻  Exercises:
   - [Quiz](exercises/w6_exercise_2_quiz)[🔑](exercises/solutions_exercises2_quiz)
   - [Exercise 2](exercises/w6_exercise_2.pptx)[🔑](https://htmlpreview.github.io/?https://github.com/ekinyaman/handsOnBioR/blob/main/exercises/solutions_exercises2.html)
@@ -83,7 +83,7 @@ The course is structured into **6 learning modules**, combining self-study, inte
 - Introduscion session to complex genetics and GWAS 
 - **Exercise 3**: Interpret GWAS output
 - 📁 Materials:
-  - [Introdustion to Genetics](materials/w9_complex_genetics.pptx)
+  - [Introdustion to Genetics](materials/w9_complex_genetics.pdf)
 - 💻  Exercises:
   - [Exercise 3](exercises/w9_exercise_3.pptx)[🔑](https://htmlpreview.github.io/?https://github.com/ekinyaman/handsOnBioR/blob/main/exercises/solutions_exercises3.html)
 - 🔍 Learning Outcomes:
@@ -97,8 +97,8 @@ The course is structured into **6 learning modules**, combining self-study, inte
 - **Self-study**: Analyze and interpret a GWAS dataset
 - **Deliverable**: Create plots, answer questions, prepare for presentation
 - 📁 Materials:
-  - [Final Assignments (version 1)](exercises/final_assignments_wise2425.pptx)
-  - [Final Assignments (version 2)](exercises/final_assignments_sose25.pptx)
+  - [Final Assignments (version 1)](exercises/w10_final_assignments.pdf)
+  - [Final Assignments (version 2)](exercises/w16_final_assignments.pdf)
 - 🔍 Learning Outcomes:
   - Conduct end-to-end analysis
   - Communicate results effectively
@@ -109,6 +109,8 @@ The course is structured into **6 learning modules**, combining self-study, inte
 
 - **Final Assignment presentations**
 - **Wrap-up discussion & feedback**
+- 📁 Materials:
+  - [Final Session](materials/w17_final_session.pdf)
 - 🔍 Learning Outcomes:
   - Present data analysis results clearly
   - Reflect on course content
