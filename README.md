@@ -38,7 +38,7 @@ The course is structured into **6 learning modules**, combining self-study, inte
 - **Introduction session to course & tools** 
 - Installing and configuring R and RStudio
 - 📁 Materials:
-  - [Introduction to the Course](materials/w1_2_installing_R_RStudio.pdf)
+  - [Introduction to the Course](materials/w1_1_introduction.pdf)
   - [Installing R and R Studio](materials/w1_2_installing_R_RStudio.pdf)
   - [Installing and loading R libraries](https://htmlpreview.github.io/?https://github.com/ekinyaman/handsOnBioR/blob/main/materials/w1_installing_R.html)
 - 🔍 Learning Outcomes:
