@@ -40,7 +40,7 @@ The course is structured into **6 learning modules**, combining self-study, inte
 - 📁 Materials:
   - [Introduction to the Course](materials/w1_2_installing_R_RStudio.pptx)
   - [Installing R and R Studio](materials/w1_2_installing_R_RStudio.pptx)
-  - [Installing and loading R libraries](https://htmlpreview.github.io/?materials/w1_installing_R.html)
+  - [Installing and loading R libraries](https://htmlpreview.github.io/?https://github.com/ekinyaman/handsOnBioR/blob/main/materials/w1_installing_R.html)
 - 🔍 Learning Outcomes:
   - Understand course structure
   - Install software and load packages
@@ -52,8 +52,8 @@ The course is structured into **6 learning modules**, combining self-study, inte
 - **Self-study**: Core R syntax, tidyverse, data import/export, basic plotting
 - **Exercise 1**: Tasks on data manipulation and different data types, reading, plotting
 - 📁 Materials:
-  - [First operations in R](materials/w2_1_first_operations_R.html)
-  - [Advanced R with Tidyverse](materials/w2_2_advanced_R_tidyverse.html)
+  - [First operations in R](https://htmlpreview.github.io/?https://github.com/ekinyaman/handsOnBioR/blob/main/materials/w2_1_first_operations_R.html)
+  - [Advanced R with Tidyverse](https://htmlpreview.github.io/?https://github.com/ekinyaman/handsOnBioR/blob/main/materials/w2_2_advanced_R_tidyverse.html)
 - 💻  Exercises:
   - [Exercise 1](exercises/w2_exercise_1.pptx) [🔑](exercises/solutions_exercises1.html)
 - 🔍 Learning Outcomes:
@@ -71,7 +71,7 @@ The course is structured into **6 learning modules**, combining self-study, inte
   - [Introdustion to Statistics](materials/w6_statistics.pptx)
 - 💻  Exercises:
   - [Quiz](exercises/w6_exercise_2_quiz)[🔑](exercises/solutions_exercises2_quiz)
-  - [Exercise 2](exercises/w6_exercise_2.pptx)[🔑](exercises/solutions_exercises2.html)
+  - [Exercise 2](exercises/w6_exercise_2.pptx)[🔑](https://htmlpreview.github.io/?https://github.com/ekinyaman/handsOnBioR/blob/main/exercises/solutions_exercises2.html)
 - 🔍 Learning Outcomes:
   - Understand p-values, CI, normal distributions
   - Perform t-tests and basic inference
@@ -85,7 +85,7 @@ The course is structured into **6 learning modules**, combining self-study, inte
 - 📁 Materials:
   - [Introdustion to Genetics](materials/w9_complex_genetics.pptx)
 - 💻  Exercises:
-  - [Exercise 3](exercises/w9_exercise_3.pptx)[🔑](exercises/solutions_exercises3.html)
+  - [Exercise 3](exercises/w9_exercise_3.pptx)[🔑](https://htmlpreview.github.io/?https://github.com/ekinyaman/handsOnBioR/blob/main/exercises/solutions_exercises3.html)
 - 🔍 Learning Outcomes:
   - Understand genetic traits and SNP association
   - Manipulate and visualize GWAS data
