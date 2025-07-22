@@ -40,7 +40,7 @@ The course is structured into **6 learning modules**, combining self-study, inte
 - 📁 Materials:
   - [Introduction to the Course](materials/w1_2_installing_R_RStudio.pptx)
   - [Installing R and R Studio](materials/w1_2_installing_R_RStudio.pptx)
-  - [Installing and loading R libraries](materials/w1_installing_R.html)
+  - [Installing and loading R libraries](https://htmlpreview.github.io/?materials/w1_installing_R.html)
 - 🔍 Learning Outcomes:
   - Understand course structure
   - Install software and load packages
